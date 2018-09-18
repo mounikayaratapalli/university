@@ -1,0 +1,350 @@
+body{
+  margin: 1px;
+}
+.header{
+    width: 100%;
+    height: 25px;
+    background-color: #1f9fd2;
+}
+.promotional{
+    text-align: center;
+	color: white;
+	font-family: AvenirNext;
+	font-size: 17px;
+}
+.evaluator{
+    color: skyblue;
+	font-size: 16px;
+	margin-top: 5px;
+	margin-left: 30px;
+}
+.button{
+    float: right;
+	padding: 7px;
+	margin-left: 10px;
+	
+}
+.login{
+    background-color: blue;
+	color: white;
+    padding: 5px 15px 5px 15px;
+	border-radius: 5px;
+}
+.phone{
+    background-color: orange;
+	color: white;
+	padding: 5px 20px 5px 20px;
+	border-radius: 5px;
+}
+.webnav{
+  display: block;
+}
+.mobilenav{
+  display: none;
+}
+#image{
+    background-image: url(../images/image2.jpeg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 400px;
+}
+.home{
+    color: white;
+	margin-top: 300px;  
+}
+#homedown{
+   border: 1px solid white;
+   background-color: white;
+   width: 750px;
+   height: 30px;
+}
+#button1{
+    background-color: #1f9fd2;
+	border-radius: 25px;
+	padding: 0px 15px 0px 15px !important;
+	color: white;
+	font-size: 13px;
+	margin-top: 5px;
+	margin-left: 15px;
+}
+#button2{
+    background-color: #1f9fd2;
+	border-radius: 25px;
+	padding: 0px 10px 0px 10px;
+	color: white;
+	font-size: 13px;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+#button3{
+    background-color: white;
+	border: 1px solid #1f9fd2;
+	font-size: 13px;
+	color: black;
+	border-radius: 25px;
+	padding: 0px 10px 0px 10px;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+#button4{
+     float: right;
+	 color: black;
+	 background-color: #b05bce;
+	 border-radius: 25px;
+	 padding: 0px 10px 0px 10px;
+	 margin-top: 3px;
+	 margin-right: 8px;
+}
+.web_image{
+display: block;
+}
+.mobile_image{
+display: none;
+}
+#colleges{
+    background-color: white;
+}
+.details{
+  margin-top: 5px;
+  background-color: lightgray;
+  border: 1px solid white;
+  width: 98%;
+  height: 1000px;
+  
+}
+.college{
+   border: 1px solid white;
+   background-color: white;
+  margin-top: 5px;
+  margin-left: 5px;
+   width: 98%;
+   height: 160px;
+}
+.massa{
+   width: 60px;
+   height: 70px;
+   margin-top: 13px;
+   margin-left: 15px;
+}
+.massachusetts{
+    font-size: 15px;
+   color: #8c8787 !important;
+   font-family: AvenirNext;
+   margin-top: 10px;
+    
+}
+.application{
+  font-size: 10px;
+  color: #9c9595;
+  font-family: AverniNext;
+  margin: 0;
+}
+.fall{
+   font-size: 10px;
+   color: #776767;
+   font-family: AverniNext;
+   margin: 0;
+}
+.scholarship{
+  font-size: 10px;
+  color: #9c9595;
+  font-family: AvernirNext;
+  margin: 0;
+}
+.yes{
+   font-size: 10px;
+   color: #776767;
+   font-family: AverniNext;
+   margin: 0;
+}
+.location{
+  font-size: 10px;
+  color: #9c9595;
+  font-family: AverniNext;
+  margin: 0;
+}
+.Massachusett{
+   font-size: 10px;
+   color: #776767;
+   font-family: AverniNext;
+   margin: 0;
+}
+.ranking{
+  font-size: 10px;
+  color: #9c9595;
+  font-family: AverniNext;
+  margin: 0;
+}
+.number{
+   font-size: 10px;
+   color: #776767;
+   font-family: AverniNext;
+   margin: 0;
+   
+}
+#star{
+   color: orange;
+}
+.fees{
+   font-size: 10px;
+   color: #776767;
+   font-family: AverniNext;
+   margin: 0;
+}
+.rate1{
+   font-size: 10px;
+   color: #776767;
+   font-family: AverniNext;
+   margin: 0;
+   
+}
+.applicationfee{
+   font-size: 10px;
+   color: #776767;
+   font-family: AverniNext;
+   margin: 0;
+}
+.rate2{
+   font-size: 10px;
+   color: #776767;
+   font-family: AverniNext;
+   margin: 0;
+}
+.thumb{
+ float: right;
+ margin-top: 10px;
+ margin-right: 20px;
+}
+#like{
+color: light green;
+font-size: 30px;
+}
+#dislike{
+color: red;
+font-size: 30px;
+}
+#university_profile{
+background-color: #1f9fd2;
+color: white;
+padding: 5px 45px 5px 45px;
+font-family: AverniNext;
+margin-left: 20px;
+margin-top: 17px;
+font-size: 10px;
+border-radius: 0;
+}
+#check_your_chances{
+background-color: #f1c40f;
+color: black;
+padding: 5px 45px 5px 45px;
+font-family: AverniNext;
+margin-left: 30px;
+margin-top: 17px;
+font-size: 10px;
+border-radius: 0;
+}
+#compare_university{
+background-color: #d8d8d8;
+color: black;
+padding: 5px 45px 5px 45px;
+font-family: AverniNext;
+margin-left: 30px;
+margin-top: 17px;
+font-size: 10px;
+border-radius: 0;
+}
+.university_washington{
+   width: 60px;
+   height: 75px;
+   margin-top: 13px;
+   margin-left: 15px;
+}
+.university_name{
+    font-size: 15px;
+   color: #8c8787;
+   font-family: AvenirNext;
+   margin-top: 10px;
+}
+.washington{
+   font-size: 10px;
+   color: #776767;
+   font-family: AverniNext;
+   margin: 0;
+}
+.mobile_college{
+   display: none;
+}
+.web_college{
+ display: block;
+}
+#footer{
+   background-color: #34495e;
+   height: 350px;
+}
+.quick{
+    color: white;
+	font-size: 13px;
+	margin-top: 30px;
+	margin-left: 34px;
+
+}
+.list1{
+    color: #d5dbe0;
+}
+.follow{
+  float: right;
+  
+}
+.icons{
+float: right; 
+}
+#twitter{
+
+margin-top: 30px;
+margin-left: 110px;
+}
+#linked{
+
+margin-top: 30px;
+margin-left: 10px;
+}
+#tube{
+  
+  margin-top: 30px;
+  margin-left: 10px;
+}
+#facebook{
+  
+  margin-top: 30px;
+  margin-left: 10px;
+}
+#getupdate{
+    color: white;
+    font-size: 15px;
+	width: 230px;
+	
+}
+.emailid{
+  padding: 5px 115px 5px 10px;
+  margin-top: 20px;
+}
+.subscribe{
+  width: 300px;
+  height: 30px;
+  margin-top: 10px;
+  padding: 5px 70px 5px 70px;
+  background-color: #cd9b1b;
+}
+.copyright{
+  color: white;
+  text-align: center;
+  font-size: 10px;
+}
+.web_footer{
+  display: block;
+}
+.mobile_footer{
+  display: none;
+}
+
+
